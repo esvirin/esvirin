@@ -1,4 +1,4 @@
-# JavaScript / TypeScript Developer (React • Node.js)
+# JavaScript / TypeScript Developer (Node.js • React)
 
 **📍 Location:** Alicante, Spain  
 **📬 Telegram:** [t.me/esvirin](https://t.me/esvirin)  
